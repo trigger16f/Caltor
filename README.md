@@ -1,0 +1,2 @@
+# Caltor
+A simple calculator
